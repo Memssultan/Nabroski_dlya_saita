@@ -30,7 +30,7 @@
   <script setup>
   import { ref } from 'vue'
   import TheHeader from '~/components/TheHeader.vue'
-  import FeaturedProducts from '~/components/FeaturedProducts.vue'
+  import FeaturedProducts from '~/components/FeaturedProduct.vue'
   import ProductCategories from '~/components/ProductCategories.vue'
   import ProductList from '~/components/ProductList.vue'
   import NewsletterSignup from '~/components/NewsletterSignup.vue'
